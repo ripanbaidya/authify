@@ -1,0 +1,16 @@
+# IDE or Editor Specific
+.idea/
+.vscode/
+*.iml
+
+# Java & Spring build outputs
+**/target/
+**/build/
+**/*.class
+backend/src/main/resources/keys/private_key.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
